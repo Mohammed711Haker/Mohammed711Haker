@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  👋 Hi there! I'm <b>Mohammed Abdullah</b> — a passionate <b>Full-Stack Web Developer</b> from Yemen 🇾🇪, currently living in Indonesia 🇮🇩.  
+  👋 Hi there! I'm <b>Mohammed Abdullah Hussein Humaidhah</b> — a passionate <b>Full-Stack Web Developer</b> from Yemen 🇾🇪, currently living in Indonesia 🇮🇩.  
   <br><br>
   💻 I love turning ideas into real digital experiences.  
   🌍 I work with <b>Python</b>, <b>Flutter</b>, <b>Dart</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>C++</b>.  
